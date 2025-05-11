@@ -1,0 +1,17 @@
+Flamboiement 0 50 Inflige_50_degats 0 4
+Pistolet_a_eau 0 40 Inflige_40_degats 0 3
+Tranche_herbe 1 20 Soigne_20_HP 0 5
+Rage 2 10 Augmente_l_attaque_de_10 2 6
+Eclair 0 40 Inflige_40_degats 0 3
+Tunnel 3 15 Diminue_l_attaque_de_15 2 5
+Morsure 0 35 Inflige_35_degats 0 3
+Koud_poing 0 40 Inflige_40_degats 0 4
+Baton 1 10 Soigne_10_HP 0 4
+Queue_battoir 0 30 Inflige_30_degats 0 3
+Vol 0 50 Inflige_50_degats 0 5
+Vive_herbe 1 20 Soigne_20_HP 0 5
+Fracas 0 50 Inflige_50_degats 0 4
+Racines 1 20 Soigne_20_HP 0 6
+Cognobidon 3 15 Diminue_l_attaque_de_15 2 1
+Poussiere_de_glace 0 40 Inflige_40_degats 0 4
+Tempête_écarlante 0 200 Inflige_200_degats 0 3
